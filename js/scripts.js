@@ -52,7 +52,6 @@ Contact.prototype.fullName = function () {
 }
 
 
-
 // some fucntions just perform actions
 
 // some fucntions return a value
